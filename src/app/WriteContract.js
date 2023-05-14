@@ -88,7 +88,7 @@ export function WriteContract() {
 
     BuyToken({
       amount: amount,
-      flag: 2,
+      flag: 1,
     });
   }
 
